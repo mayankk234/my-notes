@@ -20,8 +20,8 @@ const LandScreenCard = () => {
         Capture your ideas, jot down notes, and stay organized with a clean, distraction-free online notepad designed for simplicity and speed.
         </div>
         <div className="brutalist-card__actions">
-          <a className="brutalist-card__button brutalist-card__button--mark" href="/start">Sign In</a>
-          <a className="brutalist-card__button brutalist-card__button--read" href="/start">Sign Up</a>
+          <a className="brutalist-card__button brutalist-card__button--mark" href="/signin">Sign In</a>
+          <a className="brutalist-card__button brutalist-card__button--read" href="/signup">Sign Up</a>
         </div>
       </div>
     </StyledWrapper>
