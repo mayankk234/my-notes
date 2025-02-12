@@ -1,5 +1,3 @@
-import { title, subtitle } from "@/components/primitives";
-import MyNotes from "@/public/img/MyNotes.png";
 import LandScreenCard from "@/components/landscreencard";
 
 export default function LandScreenPage() {
