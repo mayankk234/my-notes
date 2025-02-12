@@ -2,11 +2,11 @@ export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
   name: "My Notes",
-  description: "Make beautiful websites regardless of your design experience.",
+  description: "Keep your notes on track with My notes.",
   navItems: [
     {
       label: "Home",
-      href: "/",
+      href: "/start",
     },
     {
       label: "Docs",
