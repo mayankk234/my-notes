@@ -8,24 +8,24 @@ export const siteConfig = {
       label: "Home",
       href: "/start",
     },
-    // {
-    //   label: "About",
-    //   href: "/about",
-    // },
+    {
+      label: "About",
+      href: "/about",
+    },
   ],
   navMenuItems: [
     {
       label: "Home",
       href: "/start",
     },
-    // {
-    //   label: "About",
-    //   href: "/about",
-    // },
-    // {
-    //   label: "Logout",
-    //   href: "/logout",
-    // },
+    {
+      label: "About",
+      href: "/about",
+    },
+    {
+      label: "Logout",
+      href: "/logout",
+    },
   ],
   links: {
     github: "https://github.com/heroui-inc/heroui",

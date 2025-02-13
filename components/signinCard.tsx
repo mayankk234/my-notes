@@ -50,7 +50,8 @@ const SigninForm = () => {
               className="icon"
               height="56.6934px"
               id="Layer_1"
-              style={{ enableBackground: "new 0 0 56.6934 56.6934" }}
+              // style={{ enableBackground: "new 0 0 56.6934 56.6934" }}
+              style={{background: 'new 0 0 56.6934 56.6934'}} 
               version="1.1"
               viewBox="0 0 56.6934 56.6934"
               width="56.6934px"

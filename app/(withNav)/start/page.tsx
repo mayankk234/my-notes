@@ -31,9 +31,13 @@ export default function StartPage() {
             value={currentNote}
             onChange={(e) => setCurrentNote(e.target.value)}
           />
-          <div className="floating-square" onClick={handleAddNote}>
+          <button 
+            className="floating-square"
+            onClick={handleAddNote}
+            type="button"
+          >
             <span>+</span>
-          </div>
+          </button>
         </div>
       </div>
     </StyledContainer>
